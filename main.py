@@ -34,7 +34,7 @@ mac = Recipe('Mac and Cheese',
              '\n1 cup Panko breadcrumbs',
              '\n'
              '\nSTEPS'
-             '\n1. Preheat the oven to 400Â°F [200Â°C], with a rack in the middle position'
+             '\n1. Preheat the oven to 400°F [200°C], with a rack in the middle position'
              '\n2. Shred all the cheese'
              '\n3. Bring a large pot of heavily salted water to a boil. Add the macaroni and cook until al dente, about 1 minute less than the package instructions. '
              '\n   Drain and set aside. '
